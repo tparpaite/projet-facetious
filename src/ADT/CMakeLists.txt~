@@ -1,0 +1,2 @@
+add_library(ADT list.c queue.c)
+install(TARGETS ${PROJECT_BINARY_DIR}/src/ADT/libADT.a DESTINATION ${CMAKE_LIBRARY_PATH})

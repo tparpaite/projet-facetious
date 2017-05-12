@@ -1,0 +1,3 @@
+add_subdirectory(ADT)
+add_subdirectory(facetious_pelican)
+add_subdirectory(tests)
